@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_heroIdle",
+    "path": "sprites/spr_heroIdle/spr_heroIdle.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

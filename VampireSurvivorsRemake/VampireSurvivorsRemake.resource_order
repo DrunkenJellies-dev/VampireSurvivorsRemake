@@ -17,9 +17,16 @@
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
     {"name":"Enemy","order":1,"path":"folders/Sprites/Enemy.yy",},
     {"name":"Hero","order":2,"path":"folders/Sprites/Hero.yy",},
+    {"name":"Orc","order":1,"path":"folders/Sprites/Enemy/Orc.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_groundTileSet","order":3,"path":"sprites/spr_groundTileSet/spr_groundTileSet.yy",},
+    {"name":"spr_orcWalk","order":1,"path":"sprites/spr_orcWalk/spr_orcWalk.yy",},
+    {"name":"spr_orcAttack02","order":3,"path":"sprites/spr_orcAttack02/spr_orcAttack02.yy",},
+    {"name":"spr_heroWalk","order":1,"path":"sprites/spr_heroWalk/spr_heroWalk.yy",},
+    {"name":"spr_orcAttack01","order":2,"path":"sprites/spr_orcAttack01/spr_orcAttack01.yy",},
     {"name":"obj_hero","order":1,"path":"objects/obj_hero/obj_hero.yy",},
+    {"name":"spr_heroDeath","order":2,"path":"sprites/spr_heroDeath/spr_heroDeath.yy",},
+    {"name":"spr_orcDeath","order":4,"path":"sprites/spr_orcDeath/spr_orcDeath.yy",},
   ],
 }
