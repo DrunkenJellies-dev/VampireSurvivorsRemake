@@ -1,3 +1,5 @@
+randomize();
+
 var getRoomHeight = round(room_height/16); 
 var getRoomWidth = round(room_width/16);
 
