@@ -1,7 +1,7 @@
 {
   "resourceType": "GMTileSet",
   "resourceVersion": "1.0",
-  "name": "TileSet1",
+  "name": "tset_grassStone",
   "autoTileSets": [],
   "macroPageTiles": {
     "SerialiseHeight": 0,

@@ -37,7 +37,7 @@
   },
   "resources": [
     {"id":{"name":"spr_heroIdle","path":"sprites/spr_heroIdle/spr_heroIdle.yy",},},
-    {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
+    {"id":{"name":"tset_grassStone","path":"tilesets/tset_grassStone/tset_grassStone.yy",},},
     {"id":{"name":"spr_groundTileSet","path":"sprites/spr_groundTileSet/spr_groundTileSet.yy",},},
     {"id":{"name":"obj_mapTileGeneration","path":"objects/obj_mapTileGeneration/obj_mapTileGeneration.yy",},},
     {"id":{"name":"obj_hero","path":"objects/obj_hero/obj_hero.yy",},},
