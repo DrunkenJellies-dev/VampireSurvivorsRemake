@@ -1,8 +1,11 @@
+//using the parent object for the calculations
 with(obj_enemyParent){
 
+	//getting the direction of the player compared to the player
 	direction = point_direction(x,y,obj_hero.x,obj_hero.y);
 	speed = walkSpeed;
 	
+	//flipping the sprite left and right
 	if (obj_hero.x > x)
 	{
 		image_xscale = 1;
@@ -15,8 +18,8 @@ with(obj_enemyParent){
 	depth = -y;
 }
 
+// setting the depth 
 obj_hero.depth = -obj_hero.y;
-
 
 ///loop
 alarm[0] = alaTime;

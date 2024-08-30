@@ -1,8 +1,7 @@
-/// @description Insert description here
-// You can write your code in this editor
-
+//inheriting the enemy parent object
 event_inherited();
 
+//setting the walking speed for the unique enemy
 walkSpeed = 0.15;
 
 
