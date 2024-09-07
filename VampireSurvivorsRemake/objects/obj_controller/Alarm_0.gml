@@ -16,6 +16,12 @@ with(obj_enemyParent){
 	}
 	
 	depth = -y;
+	
+	//resetting enemy sprite
+	if(sprite_index == sprDamaged)
+	{
+			sprite_index = spr;
+	}
 }
 
 // setting the depth 

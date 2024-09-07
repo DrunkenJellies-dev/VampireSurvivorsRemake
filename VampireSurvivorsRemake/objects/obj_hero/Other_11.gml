@@ -6,9 +6,3 @@ var scythe = instance_create_layer(x,y,"Instances", obj_scythe);
 	scythe.speed = 4;
 	scythe.gravity = 0.1;
 	scythe.friction = 0.01;
-
-
-
-
-
-

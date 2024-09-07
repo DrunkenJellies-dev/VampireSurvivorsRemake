@@ -1,8 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_enemyOrc",
-  "eventList": [],
+  "name": "obj_armouredOrc",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -24,18 +26,13 @@
   "physicsRestitution": 0.1,
   "physicsSensor": false,
   "physicsShape": 1,
-  "physicsShapePoints": [
-    {"x":0.0,"y":0.0,},
-    {"x":100.0,"y":0.0,},
-    {"x":100.0,"y":100.0,},
-    {"x":0.0,"y":100.0,},
-  ],
+  "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_orcIdle",
-    "path": "sprites/spr_orcIdle/spr_orcIdle.yy",
+    "name": "spr_armouredOrcWalk",
+    "path": "sprites/spr_armouredOrcWalk/spr_armouredOrcWalk.yy",
   },
   "spriteMaskId": null,
   "visible": true,

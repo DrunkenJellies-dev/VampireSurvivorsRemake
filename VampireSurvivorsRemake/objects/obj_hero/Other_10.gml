@@ -1,4 +1,6 @@
-var slash = instance_create_layer(x,y,"Instances", obj_weaponSlash);
+///@description Slash
+
+var slash = instance_create_layer(x,y,"Instances", obj_slash);
 	slash.image_xscale = image_xscale;
 	if (image_xscale == 1)
 	{
